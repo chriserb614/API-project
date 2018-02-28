@@ -1,0 +1,25 @@
+.movie-btn{
+    margin: 1px;
+    font-family: 'Cabin', sans-serif;
+}
+.filmGif{
+    height: 200px;
+    width: 300px;
+
+}
+
+p{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+#clear, #add-film{
+    margin-top: 3px;
+    font-family: 'Cabin', sans-serif;
+    
+}
+label{
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+    font-weight: bold; 
+}
+
