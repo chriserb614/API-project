@@ -83,6 +83,8 @@ $("#add-film").on("click", function(event){
 })
 $("#clear").on("click", function(event){
     $("#results").empty()
+
+    return false;
 })
 
 $(document).on("click", ".movie-btn", resultsDisplay)
